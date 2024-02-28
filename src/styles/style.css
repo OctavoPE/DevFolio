@@ -585,6 +585,10 @@ select {
   text-transform: capitalize;
   color: #302e4d;
 }
+.timeline-bullets li{
+  margin-top: 10px;
+  margin-left: 15px;
+}
 .about .about-content .timeline .timeline-text {
   font-size: 16px;
   line-height: 25px;

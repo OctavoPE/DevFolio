@@ -16,17 +16,8 @@ const Contact: NextPage = () => {
               <div className="icon">
                 <i className="fa fa-map-marker" />
               </div>
-              <h4>Address</h4>
-              <p>Your Address, City</p>
-            </div>
-            {/* contact-info-item Ended */}
-            {/* contact-info-item */}
-            <div className="contact-info-item padd-15">
-              <div className="icon">
-                <i className="fa fa-phone" />
-              </div>
-              <h4>Call Us On</h4>
-              <p>+99 **********</p>
+              <h4>Location</h4>
+              <p>Salt Lake City, Utah</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
@@ -35,7 +26,16 @@ const Contact: NextPage = () => {
                 <i className="fa fa-envelope" />
               </div>
               <h4>Email</h4>
-              <p>your@email.com</p>
+              <p>Jallain99@outlook.com</p>
+            </div>
+            {/* contact-info-item Ended */}
+            {/* contact-info-item */}
+            <div className="contact-info-item padd-15">
+              <div className="icon">
+                <i className="fa fa-linkedin" />
+              </div>
+              <h4>LinkedIn</h4>
+              <p>jeanmarco</p>
             </div>
             {/* contact-info-item Ended */}
           </div>
