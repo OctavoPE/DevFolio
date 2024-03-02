@@ -43,7 +43,7 @@ const About: NextPage = () => {
                     </div>
                     <div className="info-item padd-15">
                       <p>
-                        LinkedIn : <span>jeanmarco</span>
+                        LinkedIn : <span>jeanmarco-allain</span>
                       </p>
                     </div>
                     <div className="info-item padd-15">
@@ -59,13 +59,6 @@ const About: NextPage = () => {
                   </div>
                   <div className="row">
                     <div className="buttons padd-15">
-                      <a
-                        href="/assets/docs/resume.pdf"
-                        target="_target"
-                        className="btn"
-                      >
-                        Download CV
-                      </a>
                       <a
                         href="/contact"
                         data-section-index={0}

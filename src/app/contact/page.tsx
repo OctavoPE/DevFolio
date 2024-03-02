@@ -35,65 +35,17 @@ const Contact: NextPage = () => {
                 <i className="fa fa-linkedin" />
               </div>
               <h4>LinkedIn</h4>
-              <p>jeanmarco</p>
+              <p>jeanmarco-allain</p>
             </div>
             {/* contact-info-item Ended */}
           </div>
-          {/* Contact Form */}
+          <div className="about-content padd-15">
           <div className="row">
-            <form className="contact-form padd-15">
-              <div className="row">
-                <div className="form-item col-6 padd-15">
-                  <div className="form-group">
-                    <input
-                      type="text"
-                      className="form-control"
-                      placeholder="Name*"
-                    />
-                  </div>
-                </div>
-                <div className="form-item col-6 padd-15">
-                  <div className="form-group">
-                    <input
-                      type="email"
-                      className="form-control"
-                      placeholder="Email*"
-                    />
-                  </div>
-                </div>
+                  <p>
+                    I'm thrilled that you're considering reaching out. Whether you have questions, or exciting projects in mind, I'd love to talk.  
+                  </p>
               </div>
-              <div className="row">
-                <div className="form-item col-12 padd-15">
-                  <div className="form-group">
-                    <input
-                      type="text"
-                      className="form-control"
-                      placeholder="Subject*"
-                    />
-                  </div>
-                </div>
-              </div>
-              <div className="row">
-                <div className="form-item col-12 padd-15">
-                  <div className="form-group">
-                    <textarea
-                      className="form-control"
-                      placeholder="Your Message*"
-                      defaultValue={""}
-                    />
-                  </div>
-                </div>
-              </div>
-              <div className="row">
-                <div className="col-12 padd-15">
-                  <button type="submit" className="btn">
-                    Send Message
-                  </button>
-                </div>
-              </div>
-            </form>
-          </div>
-          {/* Contact Form Ended */}
+            </div>
         </div>
       </section>
     </>

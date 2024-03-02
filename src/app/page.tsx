@@ -17,7 +17,7 @@ export default async function Home() {
               <a href="https://github.com/OctavoPE" target="OctavoPE">
                 <i className="fa fa-github" />
               </a>
-              <a href="https://linkedin.com/in/jeanmarco" target="jeanmarco">
+              <a href="https://linkedin.com/in/jeanmarco-allain" target="jeanmarco">
                 <i className="fa fa-linkedin" />
               </a>
             </div>
