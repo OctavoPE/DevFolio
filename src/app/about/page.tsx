@@ -15,7 +15,7 @@ const About: NextPage = () => {
               <div className="row">
                 <div className="about-text padd-15">
                   <h2>
-                    I am Jeanmarco Allain a <span>Software Developer</span>
+                    I am Jeanmarco Allain, <span>Software Developer</span>
                   </h2>
                   <p>
                     Hi! My name is Jeanmarco. I am passionate about crafting automation solutions and desktop tools to enhance existing workflows, 

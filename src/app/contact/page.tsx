@@ -42,7 +42,7 @@ const Contact: NextPage = () => {
           <div className="about-content padd-15">
           <div className="row">
                   <p>
-                    I'm thrilled that you're considering reaching out. Whether you have questions, or exciting projects in mind, I'd love to talk.  
+                    I'm thrilled that you're considering reaching out. Whether you have questions, or exciting projects in mind, I'd love to talk. Reach out to me through email or LinkedIn.  
                   </p>
               </div>
             </div>
