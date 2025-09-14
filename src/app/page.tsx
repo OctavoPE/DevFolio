@@ -14,9 +14,6 @@ export default async function Home() {
             <h1>Jeanmarco Allain</h1>
             <p>Software Developer</p>
             <div className="social-links">
-              <a href="https://github.com/OctavoPE" target="OctavoPE">
-                <i className="fa fa-github" />
-              </a>
               <a href="https://linkedin.com/in/jeanmarco-allain" target="jeanmarco">
                 <i className="fa fa-linkedin" />
               </a>
